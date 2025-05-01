@@ -1,4 +1,4 @@
-# Lane Center Detection for Autonomous Vehicle Local Path Planning
+## Lane Center Detection for Autonomous Vehicle Local Path Planning
 Local path planning in autonomous vehicles often
 relies on lane center information from High Definition (HD) maps as a basis for generating safe trajectories. However,
 reference path priors may not be available in vision-based systems that rely on less detailed sources, such as navigation
@@ -13,11 +13,11 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 85 FPS, meeting real-time operational requirements.
 
 
-# Demonstration
+## Demonstration
 ---
 
-# Method
+## Method
 
-# Model 
+## Model 
 
-# Dataset
+## Dataset
