@@ -14,10 +14,8 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 
 
 ## Demonstration
----
+coming soon ...
 
-## Method
-
-## Model 
+## Pre-trained Model 
 
 ## Dataset
