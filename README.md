@@ -19,5 +19,6 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 <a href="https://youtu.be/QUAs-sD0vJs"> Rural road driving, Gateway Research Park (North Campus), NC </a>
 
 ## Pre-trained Model 
-
+> Coming soon ...
 ## Dataset
+> Coming soon ...
