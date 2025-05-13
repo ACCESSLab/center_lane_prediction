@@ -22,9 +22,11 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 
 <a href="https://youtu.be/dKMmFGmO6DQ">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction.gif)</a>
 
+<a href="https://youtu.be/dKMmFGmO6DQ"> All American Road, Ohio </a>
 
 <a href="https://youtu.be/D7gnvfqeM84">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction_Highway.gif)</a>
 
+<a href="https://youtu.be/D7gnvfqeM84"> Highway, I-40 Greensboro, NC</a>
 ## Pre-trained Model 
 > Coming soon ...
 ## Dataset
