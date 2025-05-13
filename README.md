@@ -13,11 +13,14 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 85 FPS, meeting real-time operational requirements.
 
 
-## Demonstration
+## Practical Demonstration
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QUAs-sD0vJs/0.jpg)](https://youtu.be/QUAs-sD0vJs)
 
 <a href="https://youtu.be/QUAs-sD0vJs"> Rural road driving, Gateway Research Park (North Campus), NC </a>
+## Videos
+> <a href="https://youtu.be/dKMmFGmO6DQ"> All American Road in Utah </a>
 
+> <a href="https://youtu.be/D7gnvfqeM84"> Highway scenario - I-40 Greensboro, NC</a>
 ## Pre-trained Model 
 > Coming soon ...
 ## Dataset
