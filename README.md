@@ -14,7 +14,7 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 
 
 ## Practical Demonstration
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QUAs-sD0vJs.jpg)](https://youtu.be/QUAs-sD0vJs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QUAs-sD0vJs/0.jpg)](https://youtu.be/QUAs-sD0vJs)
 
 <a href="https://youtu.be/QUAs-sD0vJs"> Rural road driving, Gateway Research Park (North Campus), NC </a>
 
