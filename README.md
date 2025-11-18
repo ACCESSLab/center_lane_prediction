@@ -12,7 +12,6 @@ on a real autonomous vehicle platform, integrated with a Model Predictive Contro
 rural setting to demonstrate reliability and real-time operation performance. The system achieved an inference speed of over
 85 FPS, meeting real-time operational requirements.
 
-
 ## Practical Demonstration
 <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/Eak7ovJ-gXxPqFZW2kWWG0kBISOyknpeVSHvrqNKyqNeCg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fQjIgy"> Rural road driving, Gateway Research Park (North Campus), NC </a>
 
@@ -26,6 +25,6 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 
 <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EfbC7L15QqdAmGGsJmOGkf4BmW8Iy9bROKPo2acqWFnqNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y4fgW9"> Highway, I-40 Greensboro, NC</a>
 ## Pre-trained Model 
-> Coming soon ...
+> Coming soon 
 ## Dataset
-> Coming soon ...
+> Coming soon 
