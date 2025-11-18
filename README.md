@@ -14,19 +14,17 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 
 
 ## Practical Demonstration
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QUAs-sD0vJs/0.jpg?v=1)](https://youtu.be/QUAs-sD0vJs)
-
-<a href="https://youtu.be/QUAs-sD0vJs"> Rural road driving, Gateway Research Park (North Campus), NC </a>
+<a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/Eak7ovJ-gXxPqFZW2kWWG0kBISOyknpeVSHvrqNKyqNeCg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fQjIgy"> Rural road driving, Gateway Research Park (North Campus), NC </a>
 
 ## Videos
 
 <a href="https://youtu.be/dKMmFGmO6DQ">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction.gif)</a>
 
-<a href="https://youtu.be/dKMmFGmO6DQ"> All American Road, Ohio </a>
+<a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EYwiGapNv3tEts0OGxtszzwBlsPwvisqSgIPJGJXtunHSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YmCXP3"> All American Road, Ohio </a>
 
 <a href="https://youtu.be/D7gnvfqeM84">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction_Highway.gif)</a>
 
-<a href="https://youtu.be/D7gnvfqeM84"> Highway, I-40 Greensboro, NC</a>
+<a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EfbC7L15QqdAmGGsJmOGkf4BmW8Iy9bROKPo2acqWFnqNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y4fgW9"> Highway, I-40 Greensboro, NC</a>
 ## Pre-trained Model 
 > Coming soon ...
 ## Dataset
