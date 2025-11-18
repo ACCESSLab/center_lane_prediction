@@ -18,11 +18,11 @@ rural setting to demonstrate reliability and real-time operation performance. Th
 
 ## Videos
 
-<a href="https://youtu.be/dKMmFGmO6DQ">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction.gif)</a>
+<a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EYwiGapNv3tEts0OGxtszzwBlsPwvisqSgIPJGJXtunHSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YmCXP3">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction.gif)</a>
 
 <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EYwiGapNv3tEts0OGxtszzwBlsPwvisqSgIPJGJXtunHSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YmCXP3"> All American Road, Ohio </a>
 
-<a href="https://youtu.be/D7gnvfqeM84">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction_Highway.gif)</a>
+<a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EfbC7L15QqdAmGGsJmOGkf4BmW8Iy9bROKPo2acqWFnqNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y4fgW9">![til](https://github.com/ACCESSLab/center_lane_prediction/blob/main/images/Lane_Centerline_Prediction_Highway.gif)</a>
 
 <a href="https://ncaandt-my.sharepoint.com/:v:/g/personal/tagetahun_ncat_edu/EfbC7L15QqdAmGGsJmOGkf4BmW8Iy9bROKPo2acqWFnqNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y4fgW9"> Highway, I-40 Greensboro, NC</a>
 ## Pre-trained Model 
